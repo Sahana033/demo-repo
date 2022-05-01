@@ -4,7 +4,7 @@ Some Description!
 
 ## Subheader
 
-Watch video on youtube.
+Watch video on my youtube channel.
 
 ## Local development
 
