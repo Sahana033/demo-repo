@@ -10,3 +10,4 @@ Watch video on my youtube channel.
 
 1. Open index.html in your browser.
 2. Solving a problem.
+3. Added a new branch quicktest.
